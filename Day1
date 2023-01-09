@@ -1,0 +1,26 @@
+Prereq for CKT Design
+Prereq 
+	1. Digital - Gates/Truth table/combi/seq ckts
+	2. Electric Ckt Design - RCI, VS & CS, KCL, KVL, Mesh/Node/ theorem
+   3. SemiCon - Types of Materials, Si/Ger, Drift/Diffusion, Intri/Extri, Diodes, BJTs/ MOSFETS
+  Overview: Packaged Chip/Die/Wafer
+  Inside Die - Digital/Analog/Mem/MC
+  History: Years of Device inventions
+  Evalutions: Devices/YEar/no. of gates
+  Moore's law
+  Methodologies:
+  FPGA and ASIC (std cell based/full custum)
+  FPGA Based: IO/CLB/Horizontal/Vertical Channels
+  FPGA vs ASIC Differeneces 
+  Designs of std cells/full custom design.
+  Design Quality:
+    1. Testability: Design in a way to let post si test 
+    2. DPM
+    3. Reliability: RV/EOS/Aging
+   Pavkage Tech and its pin counts
+    1. PTH
+    2. SMT
+    3. Plastic
+    4. Ceramic
+   CAD Tools usages.
+   Refer: Analog Design Day 1/Fundamentals of VLSI Design and overview of Sand-to-Silicon/Day1-Fundamentals of VLSI Design and Overview of Sand-to-Silicon
