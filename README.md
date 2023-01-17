@@ -8,8 +8,6 @@
  
  ### Intro : Steps to create GITHUB REPO :
 
-1) Register using intel email address
-2) Login, create repo and start write-up.
 
 
 ### Analog VLSI CKT Design , Presenter : Prof Santunu Sarangi
@@ -216,7 +214,8 @@ What is VLSI?
 11. Draw a top view, front view and 3D view of a CMOS inverter and annotate the length
 and width of both PMOS and NMOS transistor.
 <br>
-Later
+![image](https://user-images.githubusercontent.com/121996056/212796633-c5844ae9-c3b1-4ea7-baef-e2548324cbc4.png)
+3D will upload later.
 <br>
 12. Why sidewall spacer are used in DSM technology?
 <br>To prevent the part of source and drain next to the channel from becoming heavily doped.<br>
