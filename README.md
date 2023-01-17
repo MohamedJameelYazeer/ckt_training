@@ -203,8 +203,30 @@ What is VLSI?
 <details>
 <summary>Assignment</summary>
 <br>
- 
-
+6. What are the advantages of ultra-deep submicron process over deep submicron process?
+  <br> Advanates of UDSM is Improved Ion/Ioff ratio, Reduyced Cg, Higher Ion and Lower Ioff, active power reductions, reductions in interconnect density, the room for more metal are possible in USDM, higher swtiching speed, higher cut-off freq. <br>
+7. What is the difference between LOCOS and STI process?
+<br> LOCOS is traditional isolation tech in submicros which had advantages of simple fabrication process and high oxide quality and Bird's peak effect is one of the disadvantages of LOCOS. But STI allows closer spacing of transsistors by removing depletion region at surface and can elimate bird's effect. <br>
+8. Why for body connection a heavily doped n+ or p+ is used?
+<br>Body is highly doped to make it almost a matel to matel connection else it may acts as schotty barrier diode <br>
+9. What is use of silicide and poolside?
+<br> To reduce the resistance of the bulk diffusions and polysislion and to form resistive contacts with material on which it is deposited <br>
+10. Which process steps used for control threshold voltage and punch-through effect? 
+<Thru Implants <br>
+11. Draw a top view, front view and 3D view of a CMOS inverter and annotate the length
+and width of both PMOS and NMOS transistor.
+<br>
+Later
+<br>
+12. Why sidewall spacer are used in DSM technology?
+<br>To prevent the part of source and drain next to the channel from becoming heavily doped.<br>
+13. What are the advantages of Deep N-well technology over n-well technology?
+<br>Can use to reduce substrate noise couplings <br>
+14. What is passivation layer?
+<br> Glass protection layer to protect whole device. Vut where done at the specific places to connect metals going out<br>
+15. What is Bird’s beak in LOCOS process and what is the impact on the transistor
+performance?
+When performing LOCOS steps for thermal oxidation growth, a bird's beak effect is commonplace and surface area will be reduced. 
  
 <br>
 </details>
