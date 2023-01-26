@@ -289,7 +289,25 @@ When performing LOCOS steps for thermal oxidation growth, a bird's beak effect i
 <details>
 <summary>Assignment</summary>
 <br>
- 
+ Assignment: Metal-Oxide-Semiconductor Structure 
+<br>1. What are the main differences between ideal and real MOS structure? 
+	Flat band voltage is zero for ideal but for real mos, it is the ratio of fixed charge and oxide thickness. Threshold voltage is different between both different due to addition of Vfb in real mos.
+<br>2. What are the different modes of operation in a MOS junction? 
+	Accumulation, Depletion & Weak Inversion and Strong Inversion.
+<br>3. What is the difference between weak inversion and strong inversion of a MOS junction? 
+	Depletion/weak inversion mode voltage is between 0 and Vth and for strong inversion, it is higher than vth. And Inversion layer strongly formed in strong inv oxide and depletion region.
+<br>4. What is metal-to-semiconductor work function?
+	Theoretically, it is the quantity which is the difference of work functions in the metal and the semiconductors.
+<br> 5. For a heavily n-doped poly-silicon metal and a p-substrate semiconductor, what will be the metal-to-semiconductor work function? Positive or negative? -ve
+<br>6. For a heavily p-doped poly-silicon metal and a n-substrate semiconductor, what will be the metal-to-semiconductor work function? Positive or negative? +ve
+<br>7. What is threshold voltage of a MOS junction? Express threshold voltage for a non-ideal MOS junction.
+	Threshold voltage is the voltage at which I starts to flow b/w Source and Drain. Otherwise, transistor begin conductive path.
+<br>8. If the oxide (SiO2) increases for a MOS structure, the threshold voltage will increase or decrease? 
+	Cox and Vth are indirectly proportional. So higher Cox, lower Vth.
+<br>9. Instead of a lightly doped p-substrate, if you use a heavily doped p-substrate in a MOS structure then what will be the change in threshold voltage? Will it increase or decrease? Increase  
+<br>10. Describe, why MOS capacitance stay minimum at very high frequency and back to high value at low frequency. 
+Reason is the formation of inversion layer. For higher frequency, switching happens frequently which makes the electron-hole pair at the depletion regions
+
 <br>
 </details>
   
